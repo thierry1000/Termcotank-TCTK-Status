@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="en-US" original="Termcotank TCTK Correction Values">
+    <body>
+      <group id="body">
+        <trans-unit id="PageExtension 1506983762 - Method 1508637199 - NamedType 2344539320" size-unit="char" translate="yes" xml:space="preserve" al-object-target="PageExtension 1506983762">
+          <source> ,Draft,Pre Advised,Acknowledged,Posted</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension BLHeaderAdmin - Method AdminChangeStatus - NamedType Text0001</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 1506983762 - Action 4293651546 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 3032279939">
+          <source>ERPS Change Status</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension BLHeaderAdmin - Action ChangeStatusforAdmin - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 4060401089 - Method 1508637199 - NamedType 2344539320" size-unit="char" translate="yes" xml:space="preserve" al-object-target="PageExtension 4060401089">
+          <source>open,ready,exported</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension ContainerFillingAdmin - Method AdminChangeStatus - NamedType Text0001</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 4060401089 - Action 4293651546 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 4151898592">
+          <source>ERPS Change Status</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension ContainerFillingAdmin - Action ChangeStatusforAdmin - Property Caption</note>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

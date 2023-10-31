@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="en-US" original="Termco_TCTK_Status">
+    <body>
+      <group id="body">
+        <trans-unit id="Page 1435255274 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Price  Formulas ERP Services</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page test - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1435255274 - Control 2445482498 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>General</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page test - Control General - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1435255274 - Action 3820465849 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>&amp;ERP Services</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page test - Action &amp;ERP Services - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1435255274 - Action 4065541250 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Correct</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page test - Action Correct - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1435255274 - Action 3463593624 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Correct2</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page test - Action Correct2 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1435255274 - Action 2694612495 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>correct3</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page test - Action correct3 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 4060401089 - Method 1508637199 - NamedType 2344539320" size-unit="char" translate="yes" xml:space="preserve" al-object-target="PageExtension 4060401089">
+          <source> ,Draft,Pre Advised,Acknowledged,Posted</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension ContainerFillingAdmin - Method AdminChangeStatus - NamedType Text0001</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 4060401089 - Action 4293651546 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 4151898592">
+          <source>ERPS Change Status</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension ContainerFillingAdmin - Action ChangeStatusforAdmin - Property Caption</note>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>
